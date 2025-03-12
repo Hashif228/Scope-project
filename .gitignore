@@ -1,0 +1,16 @@
+venv/
+env/
+
+**/migrations/
+
+__pycache__/
+*.pyc
+*.pyo
+
+*.sqlite3
+
+.env
+
+staticfiles/
+media/
+myapp1/static/img
