@@ -14,3 +14,4 @@ __pycache__/
 staticfiles/
 media/
 myapp1/static/img
+myproject1/settings.py
